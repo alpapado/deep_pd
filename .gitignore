@@ -1,0 +1,17 @@
+__pycache__
+*.pickle
+*.pickle.bak
+*.pickle.old
+*.npz
+*.log
+*.txt
+*.swp
+job_logs
+runs/
+old/
+submit_tremor.sh
+src/
+*.svg
+model.pt
+models/pretrained
+models/finetuned
