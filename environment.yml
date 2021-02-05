@@ -177,5 +177,5 @@ dependencies:
     - wrapt==1.12.1
     - xarray==0.16.2
     - zict==2.0.0
-prefix: /media/storage/miniconda/envs/torch1.6
+prefix: $CONDA_HOME/miniconda/envs/torch1.6
 
