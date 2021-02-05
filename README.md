@@ -8,6 +8,7 @@ Preparatory steps
 ```bash
 git clone https://github.com/alpapado/deep_pd
 cd deep_pd
+conda env create -f environment.yml
 wget https://zenodo.org/record/4311175/files/data.zip
 unzip data.zip -d data
 ```
