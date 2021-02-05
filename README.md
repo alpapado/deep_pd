@@ -4,7 +4,7 @@ Supplementary code and pre-trained models for the [paper](https://www.nature.com
 Dataset can be found [here](https://zenodo.org/record/4311175)
 
 ## Instructions
-Download data and unzip into data folder
+Preparatory steps
 ```bash
 git clone https://github.com/alpapado/deep_pd
 cd deep_pd
